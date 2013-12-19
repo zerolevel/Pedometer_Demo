@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Profile_Data</string>
+    <string name="ProfileData">Profile Data</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">Start Profiling</string>
+    <string name = "end">End Profiling</string>
+
+</resources>

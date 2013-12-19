@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="ComAndroidSupportAppcompatV71900.aar" >
+        <source path="/home/mohit/Pedometer/Profile_Data/Pedometer/build/exploded-bundles/ComAndroidSupportAppcompatV71900.aar/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/home/mohit/Pedometer/Profile_Data/Pedometer/src/main/assets" />
+    </dataSet>
+    <dataSet config="defaultFlavor" >
+        <source path="/home/mohit/Pedometer/Profile_Data/Pedometer/src/defaultFlavor/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/mohit/Pedometer/Profile_Data/Pedometer/src/debug/assets" />
+    </dataSet>
+
+</merger>
